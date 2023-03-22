@@ -1,0 +1,6 @@
+github.com/go-sql-driver/mysql v1.7.0 h1:ueSltNNllEqE3qcWBTD0iQd3IpL/6U+mJxLkazJ7YPc=
+github.com/go-sql-driver/mysql v1.7.0/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
+github.com/goccy/go-json v0.10.2 h1:CrxCmQqYDkv1z7lO7Wbh2HN93uovUHgrECaO5ZrCXAU=
+github.com/goccy/go-json v0.10.2/go.mod h1:6MelG93GURQebXPDq3khkgXZkazVtN9CRI+MGFi0w8I=
+github.com/scout27/linceClient v0.0.0-20230322100729-82f2973272f8 h1:B74u07hwfZuQ3eEjxCRzC4A+dFqaAXdAO+g2VQNiKuQ=
+github.com/scout27/linceClient v0.0.0-20230322100729-82f2973272f8/go.mod h1:a3kXreirwHVO45a2LhrsqK/x9tAskYog6lcoqq5lL8w=
